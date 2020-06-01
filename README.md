@@ -41,7 +41,7 @@ For this activity, we will need a library specialized in deep learning called Ke
 
 we had used Fashion Mnist datasets from keras library.
 
-Dataset path:
+#### Dataset path:
 
 https://keras.io/api/datasets/fashion_mnist/
 
@@ -75,6 +75,8 @@ MNIST dataset has the following features:
 
 
 
+#### References
+
 > [1] [Keras](https://keras.io/guides/)
 
 > [2] [Matplotlib](https://matplotlib.org/)
@@ -89,13 +91,3 @@ MNIST dataset has the following features:
 
 > [7] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
-5) Each image has labeled from 0-9.
-    
-<td><img src='https://cdn-images-1.medium.com/max/1200/1*00pL0zLnfI7y8d5G1aQrHA.jpeg' width='200' /></td>
-    
-<td><img src='https://matplotlib.org/_static/logo2.svg' width='200' /></td>
-    
-<td><img src='https://tse1.mm.bing.net/th?id=OIP.AvJibK-BbuwLDwzedOVIkAHaCl&pid=Api&P=0&w=456&h=160' width='200' /></td>   
-    
-</tr>
-</table>
