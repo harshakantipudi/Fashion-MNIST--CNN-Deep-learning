@@ -1,6 +1,6 @@
-# Fashion-MNIST--CNN-Deep-learning
+## Fashion-MNIST--CNN-Deep-learning
 
-### 1) Problem Description
+### Problem Description
 
 Goal: Applying Neural Networks to determine a classification problem¶
 
@@ -74,20 +74,4 @@ MNIST dataset has the following features:
 <p><span style="color:red">References</span></p>
 
 
-
-#### References
-
-> [1] [Keras](https://keras.io/guides/)
-
-> [2] [Matplotlib](https://matplotlib.org/)
-    
-> [3] [Numpy](https://numpy.org/)
-    
-> [4] [Tensor Flow](https://www.tensorflow.org/)
-
-> [5] Fashion MNIST, An MNIST-like dataset of 70,000 28x28 labeled fashion images, https://www.kaggle.com/zalando-research/fashionmnist
-
-> [6] Goodfellow, I., Bengio, Y., & Courville, A. (2016).[Deep Learning](https://books.google.it/books?hl=en&lr=&id=omivDQAAQBAJ&oi=fnd&pg=PR5&dq=+++++Goodfellow,+I.,+Bengio,+Y.,+%26+Courville,+A.+(2016).+Deep+learning+(adaptive+computation+and+machine+learning+series).+Adaptive+Computation+and+Machine+Learning+series,+800.&ots=MMV_ftmDQU&sig=Gy4MrK33Nmcjirnl7sEzgz26xBI&redir_esc=y#v=onepage&q&f=false) (adaptive computation and machine learning series). Adaptive Computation and Machine Learning series, 800.
-
-> [7] Dropout: A Simple Way to Prevent Neural Networks from Overfitting, https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
