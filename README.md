@@ -70,7 +70,10 @@ MNIST dataset has the following features:
 </table>
 
 
+
 <p><span style="color:red">References</span></p>
+
+
 
 > [1] [Keras](https://keras.io/guides/)
 
