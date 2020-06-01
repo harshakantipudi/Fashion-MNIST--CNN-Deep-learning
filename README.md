@@ -1,5 +1,13 @@
 # Fashion-MNIST--CNN-Deep-learning
 
+### 1) Problem Description
+
+Goal: Applying Neural Networks to determine a classification problem¶
+
+Classification of Fashion-MNIST with a simple Convolution Neural Networks in Keras.We import datasets for fashion Mnist from keras library.
+
+
+
 <table align='left'>
 <tr>
 <td><img src='https://raw.githubusercontent.com/margaretmz/deep-learning/master/images/modern%20dl_fash-mnist_keras.png' width='1000' /></td>
